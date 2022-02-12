@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93024184755",
+    "project_id": "homex-21186",
+	"firebase_url":"https://homex-21186-default-rtdb.firebaseio.com/",
+    "storage_bucket": "homex-21186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93024184755:android:492d9115b5b758a99a43c6",
+        "android_client_info": {
+          "package_name": "com.HomeX.IOT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93024184755-egu8a5sbsqkn629ae0g0no3u0rqglhb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HomeX.IOT",
+            "certificate_hash": "dfb58a50a5d5dc8726f91bcf087e6bd5c1af0d53"
+          }
+        },
+        {
+          "client_id": "93024184755-6h8uq43vcs20j11jcu91rat99ntfp6gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr274q0kEoGxRCMXiOrsWKKd_3iznxxgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93024184755-6h8uq43vcs20j11jcu91rat99ntfp6gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93024184755-6s26lord12vn1l32n5m7q799r3jmu69l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Homex.IOT"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

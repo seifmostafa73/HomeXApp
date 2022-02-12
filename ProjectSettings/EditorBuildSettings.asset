@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/transitionscene.unity
+    guid: 698c7471f139f0442b60a601be8cd209
+  - enabled: 1
+    path: Assets/Scenes/LoginPage 1.unity
+    guid: 8aef9a9f1128590419977b68668a3514
+  - enabled: 1
+    path: Assets/Scenes/RegisterPage 1.unity
+    guid: e91706c79963b09478bff03c78aa9790
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
