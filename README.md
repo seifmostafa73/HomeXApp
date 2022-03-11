@@ -30,7 +30,7 @@ Dynamic toast windows
 
 
 ## Known Bugs
-please note that this Project was built for learning purposes so it's not contantly updated , as a reuslt some api's might be old.
+please note that this Project was built for learning purposes so it's not constantly updated , as a reuslt some api's might be old.
 
 * the TTS and STT scripts stopped working for some reason and only accepts korean langague [although I rechecked the script and it should be working fine.]
 
