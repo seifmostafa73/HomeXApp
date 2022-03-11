@@ -34,7 +34,7 @@ please note that this Project was built for learning purposes so it's not consta
 
 * the TTS and STT scripts stopped working for some reason and only accepts korean langague [although I rechecked the script and it should be working fine.]
 
-* when you add ad device to the room you need to restart the app in order for it to show in the favourties and update the blank home page [a simple solutuion is to re-call the function after you add the device]
+* when you add a device to the room you need to restart the app in order for it to show in the favourties and update the blank home page [a simple solutuion is to re-call the function after you add the device]
 * Secarios sometime cause a connection problem with the free MQTT server , which is acceptable , however the used version of M2MQTT lakes the proper handling , this can be resolved by simply using a try-catch statment in the libarary's Send funtion
 
 ## ScreenShots
